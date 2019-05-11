@@ -1,0 +1,16 @@
+/* LOGIN */
+.login {
+  margin-top: 140px;
+}
+
+/* VENDOR DASHBOARD */
+.vendor {
+  margin-top: 0px;
+  overflow-x: hidden;
+}
+
+/* HR DASHBOARD  */
+.hr{
+  margin-top: 0px;
+  overflow-x: hidden;
+}
