@@ -32,4 +32,4 @@ This project have initial [Mock-up](https://www.figma.com/file/Elw3uGYJbXvInMH4X
 
 ## Deployment
 This project is deployed to Heroku, you can access the web app below:
-[mhc-wellness-event-booking](https://mhc-wellness-event-booking.herokuapp.com/)
+[wellness-event-booking](https://mhc-wellness-event-booking.herokuapp.com/)
